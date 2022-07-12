@@ -1,3 +1,6 @@
 [submodule "bigspring-light"]
 	path = bigspring-light
 	url = https://github.com/gethugothemes/bigspring-light.git
+[submodule "themes/bigspring-light"]
+	path = themes/bigspring-light
+	url = https://github.com/gethugothemes/bigspring-light.git
