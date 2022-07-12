@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "/"
 title = "Bigspring Light"
-theme = "bigspring-light"
+theme = "bigspring"
 # post pagination
 paginate = "3"
 # post excerpt
